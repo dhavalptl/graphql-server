@@ -1,0 +1,13 @@
+# Logs
+logs
+*.logs
+
+# Build Dir
+public
+dist
+
+# Node Dependency Dir
+node_modules
+
+# Mac System File
+.DS_Store
