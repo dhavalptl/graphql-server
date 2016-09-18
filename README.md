@@ -4,31 +4,29 @@ Graphql server created using Apollo Server with Dataloader
 
 User can fetch user and repositories information
 
-Graphql Type Query
-
-Install GraphQL, DataLoader and Apollo Server modules 
+###Install GraphQL, DataLoader and Apollo Server modules 
 
 ```
-npm Install
+npm install
 
 ```
 
-Run GraphQL Server 
+###Run GraphQL Server 
 
 ```
 npm start
 
 ```
-Access GraphQL server 
+###Access GraphQL server 
 
 http://localhost:4000/graphql
 
 
-Test User query in graphiql
+###Test User query in graphiql
 
 http://localhost:4000/graphiql
 
-Sample GraphQL query
+###Sample GraphQL query
 
 ```
 {
