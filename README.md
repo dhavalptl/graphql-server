@@ -8,14 +8,12 @@ User can fetch user and repositories information
 
 ```
 npm install
-
 ```
 
 ###Run GraphQL Server 
 
 ```
 npm start
-
 ```
 ###Access GraphQL server 
 
@@ -42,5 +40,4 @@ http://localhost:4000/graphiql
     }
   }
 }
-
 ```
